@@ -1,0 +1,130 @@
+
+
+
+.title{
+font-size: 100px;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+.color
+{
+    background-color: lightblue;
+}
+.col1
+{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: rgb(111, 167, 115);
+    text-align: center;
+}
+.col2
+{
+    padding-left: 10px;
+    padding-right: 30px;
+   
+    
+}
+.col4
+{
+   
+   padding-right: 30px; 
+    text-align: end;
+}
+.rotate
+{
+    text-align: left;
+    transform: rotate(-90deg);
+
+}
+
+
+.dtitle
+{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.pra1{
+    padding-top: 10px;
+
+}
+#card
+{
+  transform: rotate(90deg);
+}
+
+.conf1
+{
+    width: 220px;
+}
+.conf2{
+
+    width: 200px;
+
+}
+.card1-text
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.row2
+{
+    padding-top: 20px;
+}
+#tcenter
+{
+    text-align: center;
+    padding-left: 30px
+}
+.me
+{
+    padding-left: 40px;
+}
+.ttotal
+{
+    
+    font-weight: 600;
+    font-size: 30px;
+}
+.entirecol1
+{
+    
+    width: 26rem;
+   
+}
+.imm
+{
+    font-size: 25px;
+    font-weight: 600;
+}
+.waas
+{
+    font-weight: 600;
+}
+.shut
+{
+    font-size: 70px;
+   font-weight: 700;
+    padding-left: 180px;
+    word-spacing: 10px;
+}
+.widthadj
+{ width:14rem;
+
+}
+
+.trumpimg
+{
+    width:42rem;
+}
+.widchange
+{
+    width: 153px;
+    padding-left: 15px;
+}
+.pad
+{
+    padding-left: 20px;
+}
+
